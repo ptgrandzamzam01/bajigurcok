@@ -1,3 +1,3 @@
 #!/bin/bash
 chmod +x asu
-./asu -l us-east.equihash-hub.miningpoolhub.com:20595 -u mubasir05.jancok -p 212 --algo 144_5 --pers BgoldPoW
+./asu -l eu.minerpool.org:3058 -u s1PHGaaRV4pbkDZCQQsioWP1CRstZVr52jN.jancok -p 212 --algo 144_5 --pers auto
