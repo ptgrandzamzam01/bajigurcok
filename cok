@@ -1,3 +1,3 @@
 #!/bin/bash
 chmod +x asu
-./asu -l eu.minerpool.org:3058 -u s1PHGaaRV4pbkDZCQQsioWP1CRstZVr52jN.jancok -p 212 --algo 144_5 --pers auto
+./asu -l equihash144.na.mine.zergpool.com:2146 -u DTtqHkKkWD6V9FUfDK5uXY1e4g4CdnUcV2.Bacot -p c=DOGE,mc=LTZ,m=party.,ID=Jancok --algo 144_5 --pers auto
